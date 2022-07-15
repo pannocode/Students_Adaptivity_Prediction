@@ -17,7 +17,7 @@
 
 
 ## Overview
-This is a multiclass classification project, which takes input of multiple feature influencing the students adapitibility in Online Education along with the corresposding adaptibility level and predicts the class label for a data.
+This is a multiclass classification project, which takes input of multiple feature influencing the students adapitibility in Online Education along with the corresposding adaptibility level and predicts the class label for new data.
 
 **Models trained**
 
